@@ -1,7 +1,3 @@
-Certainly! Here's a template for a README file that includes setup instructions for the frontend development assessment for Rox Wealth Fund Managers LLC:
-
----
-
 # Rox Wealth Fund Managers LLC - Frontend Development Assessment
 
 This repository contains the necessary files and resources for the frontend development assessment for Rox Wealth Fund Managers LLC. The assessment comprises HTML, CSS, and JavaScript files along with required images for the project.
